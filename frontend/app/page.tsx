@@ -20,7 +20,7 @@ export default function LandingPage() {
           Welcome to Syllabus App
         </motion.h1>
         <p className="text-lg text-gray-700 mb-6 max-w-2xl">
-          Upload your syllabus, extract key dates, and sync them effortlessly with Google Calendar.
+          Upload your syllabus course schedule, download curated assignment list spreadsheet.
         </p>
         <div className="flex space-x-4">
           <Link href="/upload">
